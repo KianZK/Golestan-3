@@ -1,6 +1,6 @@
 @font-face {
   font-family: Iransans;
-  src: url(/public/fonts/IRANSansWeb_Medium.woff2);
+  src: url(public/fonts/IRANSansWeb_Medium.woff2);
 }
 header a {
   text-decoration: none;
